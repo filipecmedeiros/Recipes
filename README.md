@@ -1,4 +1,4 @@
-# cookbook
+# Recipes
 
 1. A categorias pertencem as comidas mais calóricas?
 2. Quais os top 10 ingredientes contidos nas receitas mais calóricas?
